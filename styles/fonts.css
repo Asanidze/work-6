@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Sofia Sans';
+    src: url('../fonts/SofiaSans-LightItalic.eot');
+    src: url('../fonts/SofiaSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SofiaSans-LightItalic.woff2') format('woff2'),
+        url('../fonts/SofiaSans-LightItalic.woff') format('woff'),
+        url('../fonts/SofiaSans-LightItalic.ttf') format('truetype'),
+        url('../fonts/SofiaSans-LightItalic.svg#SofiaSans-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
