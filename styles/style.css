@@ -72,7 +72,7 @@
 	margin-left: 271px;
 }
 .bottom-box {
-	width: 1171px;
+	width: 1725px;
 	height: 1221px;
 	margin: 0 auto;
 }
@@ -80,6 +80,7 @@
 	width: 1171px;
 	height: 186px;
 	display: flex;
+	margin: 0 auto;
 	flex-direction: column;
 	align-items: center;
 }
@@ -107,6 +108,7 @@
 .wrap-div {
 	display: flex;
 	flex-wrap: wrap;
+	margin: 0 auto;
 	justify-content: space-between;
 	width: 1169px;
 	height: 1094px;
